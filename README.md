@@ -10,5 +10,16 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
 
 ## Table of Contents 
 * [Portfolio Project](#portfolioprojects)
+    - Microsoft Excel
+        - A
+    - SQL
+        - A
+    - Python
+        - A
+    - Tableau
+        - A
+    - Power BI
+        - AS
 ## Portfolio Project 
+
 
