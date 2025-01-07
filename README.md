@@ -1,6 +1,6 @@
 # __Catherine Valadez - Data Analytics Portfolio__
 
-## Welcome to my portfolio! 
+## About 
 
 Hi, I'm Catherine! I'm excited to share the skills I’ve developed in Microsoft Office Suite, SQL, Python, Tableau, and Power BI. My professional background includes managing operations, analyzing sales data, and improving business processes, which has helped me build a strong foundation in data-driven decision-making. I’m passionate about using data to uncover insights and solve problems, and I am continually growing my expertise in the field.
 
@@ -8,5 +8,7 @@ In my previous roles, I managed daily operations, including vendor coordination 
 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
-
+## Table of Contents 
+* [Portfolio Project](#portfolioprojects)
+## Portfolio Project 
 
