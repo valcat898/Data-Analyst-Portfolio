@@ -1,18 +1,12 @@
-# __Data Analytics Portfolio__
+# __Catherine Valadez - Data Analytics Portfolio__
 
 ## Welcome to my portfolio! 
 
-I’m a data analyst with intermediate skills in SQL, Tableau, Power BI, Excel, and Python, and I have a genuine passion for transforming data into insights that lead to real, impactful results. My journey in data analysis has equipped me with a diverse skill set, enabling me to tackle complex problems and uncover valuable insights.
+Hi, I'm Catherine! I'm excited to share the skills I’ve developed in Microsoft Office Suite, SQL, Python, Tableau, and Power BI. My professional background includes managing operations, analyzing sales data, and improving business processes, which has helped me build a strong foundation in data-driven decision-making. I’m passionate about using data to uncover insights and solve problems, and I am continually growing my expertise in the field.
 
-In my projects, I've effectively used SQL to extract and manipulate data from various sources, allowing me to create detailed reports that inform decision-making across different business functions. My experience with SQL not only helps me understand data structures but also enhances my ability to generate tailored queries that meet specific analytical needs.
+In my previous roles, I managed daily operations, including vendor coordination and staffing, while ensuring smooth business performance through data analysis and strategic planning. I’ve gained hands-on experience in budgeting, cost control, and financial tracking, always focused on maximizing efficiency and profitability. Additionally, I’ve implemented organizational systems to streamline workflows, improved data accuracy, and provided insights that drove smarter marketing and sales strategies.
 
-Additionally, I’ve utilized powerful visualization tools like Tableau and Power BI to craft engaging and interactive dashboards. These visualizations are designed to clearly communicate key trends and findings, making it easier for stakeholders to grasp the insights and make informed decisions. I believe that a well-crafted visualization can tell a compelling story and significantly enhance data comprehension.
-
-I have a solid foundation in Excel, where I leverage advanced functions, pivot tables, and data modeling techniques to perform deeper analyses. This enables me to handle large datasets effectively and derive meaningful conclusions that drive business strategies. My proficiency in Python allows me to automate repetitive tasks, streamline data cleaning processes, and perform more advanced statistical analyses, ultimately improving efficiency and accuracy in my work.
-
-This portfolio is a reflection of my journey in data analysis, showcasing a variety of projects that highlight my ability to transform complex data into compelling narratives. Each project demonstrates not only my technical skills but also my commitment to delivering actionable insights that can help organizations thrive.
-
-I invite you to explore my work and see how I can contribute to making data-driven decisions within your organization. Thank you for visiting, and I look forward to connecting with you!
+Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
 
 
