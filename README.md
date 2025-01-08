@@ -10,16 +10,17 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
 
 ## Table of Contents 
 * [Portfolio Project](#portfolioprojects)
-    - Microsoft Excel
+    - Python
         - A
     - SQL
-        - A
-    - Python
         - A
     - Tableau
         - A
     - Power BI
         - ASn
+    - Microsoft Excel
+        - A 
 ## Portfolio Project 
-
-
+In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
+### A/B Data Analysis of an E-Commerce Website
+**Code:** [A/B Data Analysis of an E-Commerce Website](
