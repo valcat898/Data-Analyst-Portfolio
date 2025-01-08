@@ -19,7 +19,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - Tableau
         - A
     - Power BI
-        - AS
+        - ASn
 ## Portfolio Project 
 
 
