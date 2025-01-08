@@ -9,7 +9,7 @@ In my previous roles, I managed daily operations, including vendor coordination 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
 ## Table of Contents 
-* [Portfolio Project]([https://github.com/valcat898/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+* [Portfolio Projects]([https://github.com/valcat898/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
         - A
     - SQL
@@ -20,7 +20,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
         - ASn
     - Microsoft Excel
         - A 
-## Portfolio Project 
+## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
 **Code:** [A/B Data Analysis of an E-Commerce Website](
