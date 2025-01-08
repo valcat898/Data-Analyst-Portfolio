@@ -11,7 +11,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
 ## Table of Contents 
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
-        - A 
+        - [A/B Analysis of an E-Commerce Website](https://github.come/valcat898/Data-Analyst-Portfolio#a/b-analysis-of-an-e-commerce-website)
     - SQL
         - A
     - Tableau
