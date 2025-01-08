@@ -23,4 +23,14 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
-**Code:** [A/B Data Analysis of an E-Commerce Website](https://github.com/valcat898/PortfolioProjects/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+**Code:** [A/B Data Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+
+**Objective:** To analyze user conversion data to determine whether to implement a new webpage or keep the current webpage.
+
+**Description:** This project involves analyzing the results of an A/B test conducted by an e-commerce company to evaluate the effectiveness of a newly developed webpage aimed at increasing user conversions. The goal is to determine whether the company should implement the new treatment webpage, continue using the current control webpage, or extend the experiment to gather more data. Using the provided dataset and Jupyter Notebook, the analysis will focus on comparing conversion rates and statistical significance to inform the company's decision.
+
+**Skills:** data cleaning, data analysis, A/B testing, statistical analysis, data visualization
+
+**Technology:** Python, Pandas, Matplotlib, Statsmodels
+
+**Conclusion:** The analysis concluded that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
