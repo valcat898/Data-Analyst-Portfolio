@@ -9,6 +9,7 @@ In my previous roles, I managed daily operations, including vendor coordination 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
 ## Table of Contents 
+* [About](https://github.com/valcat898/Data-Analyst-Portfolio/edit/main/README.md#about)
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
         - [A/B Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
@@ -34,3 +35,16 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Python, Pandas, Matplotlib, Statsmodels
 
 **Conclusion:** The analysis concluded that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
+
+### Consumer Behavior and Sales Insights Dashboard 
+**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+
+**Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
+
+**Description:** This dashboard focuses on analyzing consumer shopping behavior through transactional data, including product categories and customer demographics. By examining patterns such as spending trends, popular products, and customer preference, the project aims to provide insights that can guide retail strategies and optimize sales forecasting. The goal is to help businesses make data-driven decisions for improved marketing, customer retention, and overall performance. 
+
+**Skills:** data cleaning, data analysis, data visualization, customer segmentation
+
+**Technology:** Excel pivot tables, formulas, and filters
+
+**Conclusion:** In conclusion, this analysis reveals that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
