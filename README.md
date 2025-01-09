@@ -21,6 +21,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
         - ASn
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
+          
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
@@ -35,6 +36,19 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Python, Pandas, Matplotlib, Statsmodels
 
 **Results:** The analysis revealed that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
+
+### Exploring Factors Affecting Energy Consumption 
+**Code:** [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Exploring%20Factors%20Affecting%20Energy%20Consumption.sql)
+
+**Objective:**
+
+**Description:**
+
+**Skills:**
+
+**Technology:**
+
+**Results:**
 
 ### Consumer Behavior and Sales Insights Dashboard 
 **Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
