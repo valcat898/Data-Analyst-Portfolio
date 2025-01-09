@@ -20,7 +20,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - Power BI
         - ASn
     - Microsoft Excel
-        - A 
+        - [Consumer Behavior and Sales Insight Dashboard)(https://github.com/valcat898/Data-Analyst-Portfolio/edit/main/README.md#consumer-behavior-and-sales-insights-dashboard) 
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
@@ -37,7 +37,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Conclusion:** The analysis concluded that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
 
 ### Consumer Behavior and Sales Insights Dashboard 
-**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+**Code:** [Consumer Behavior and Sales Insights Dashboard]([https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
 
 **Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
 
