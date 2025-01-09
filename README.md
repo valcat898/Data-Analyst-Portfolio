@@ -20,7 +20,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - Power BI
         - ASn
     - Microsoft Excel
-        - [Consumer Behavior and Sales Insight Dashboard)(https://github.com/valcat898/Data-Analyst-Portfolio/edit/main/README.md#consumer-behavior-and-sales-insights-dashboard) 
+        - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/edit/main/README.md#consumer-behavior-and-sales-insights-dashboard) 
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
