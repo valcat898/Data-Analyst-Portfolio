@@ -14,7 +14,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - Python
         - [A/B Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
     - SQL
-        - A
+        - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
         - A
     - Power BI
