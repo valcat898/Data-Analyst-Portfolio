@@ -40,15 +40,15 @@ In this section, I will outline data analytics projects, offering a brief descri
 ### Exploring Factors Affecting Energy Consumption 
 **Code:** [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Exploring%20Factors%20Affecting%20Energy%20Consumption.sql)
 
-**Objective:**
+**Objective:** To analyze energy consumption patterns in buildings to optimize energy efficiency. 
 
-**Description:**
+**Description:** This project aims to analyze energy consumption patterns in buildings by examining factors such as building type, square footage, number of occupants, appliances used, day of the week, and temperature. By identifying trends and correlations within the data, the project seeks to uncover insights that can help optimize energy usage and improve overall energy efficiency in homes. The analysis will assist in understanding the key drivers of energy consumption, enabling more informed decisions for sustainable energy management.
 
-**Skills:**
+**Skills:** SQL, data cleaning, data analysis, aggregate functions
 
-**Technology:**
+**Technology:** SQL and Excel
 
-**Results:**
+**Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
 ### Consumer Behavior and Sales Insights Dashboard 
 **Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
