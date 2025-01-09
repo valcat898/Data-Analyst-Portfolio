@@ -37,7 +37,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Conclusion:** The analysis concluded that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
 
 ### Consumer Behavior and Sales Insights Dashboard 
-**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Consumer%20Behavior%20and%20Sales%20Insights.xlsx)
+**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
 
 **Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
 
