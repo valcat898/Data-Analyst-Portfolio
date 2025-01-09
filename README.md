@@ -34,7 +34,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Technology:** Python, Pandas, Matplotlib, Statsmodels
 
-**Conclusion:** The analysis concluded that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
+**Results:** The analysis revealed that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
 
 ### Consumer Behavior and Sales Insights Dashboard 
 **Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
@@ -47,4 +47,4 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Technology:** Excel pivot tables, formulas, and filters
 
-**Conclusion:** In conclusion, this analysis reveals that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
+**Results:** The analysis revealed that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
