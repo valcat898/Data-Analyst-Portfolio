@@ -9,7 +9,7 @@ In my previous roles, I managed daily operations, including vendor coordination 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
 ## Table of Contents 
-* [About]([https://github.com/valcat898/Data-Analyst-Portfolio/edit/main/README.md#about)
+* [About](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
         - [A/B Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
