@@ -16,7 +16,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
-        - A
+        - [Quarterly Sales Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes)
     - Power BI
         - ASn
     - Microsoft Excel
