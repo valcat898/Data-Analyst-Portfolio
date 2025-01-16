@@ -8,6 +8,8 @@ In my previous roles, I managed daily operations, including vendor coordination 
 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
+My CV in [PDF]. 
+
 ## Table of Contents 
 * [About](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
@@ -21,6 +23,9 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
         - [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
+* [Education]
+* [Certificates]
+* [Contact]
           
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
@@ -84,3 +89,12 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Excel pivot tables, formulas, and filters
 
 **Results:** The analysis revealed that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
+
+## Certificates 
+* CompTIA Data+
+* CompTIA Project+
+* AWS Cloud Practitioner
+* WGU Data Analyst Nanodegree
+
+## Contact
+valadezcat@gmail.com
