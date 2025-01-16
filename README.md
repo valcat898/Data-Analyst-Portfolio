@@ -51,17 +51,15 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
 ### E-Commerce Sales Dashboard 
-**Code:** [E-Commerce Sales Dashboard]()
+**Code:** [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
-**Objective:** 
+**Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
 
-**Description:**
+**Description:** This project analyzes an e-commerce dataset to uncover insights on product performance, customer preferences, and market trends. By examining sales, pricing, reviews, and discounts, businesses can optimize strategies to boost sales and improve customer satisfaction.
 
-**Skills:**
+**Skills:** data import and transformation, data modeling, visualization, trend analysis, reporting and dashboarding
 
-**Technology:**
-
-**Results:**
+**Technology:** Power BI and Power Query 
 
 ### Consumer Behavior and Sales Insights Dashboard 
 **Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
