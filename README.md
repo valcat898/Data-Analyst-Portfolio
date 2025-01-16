@@ -18,7 +18,7 @@ Feel free to explore my projects, and if you believe there’s an opportunity to
     - Tableau
         - [Quarterly Sales Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes)
     - Power BI
-        - [E-Commerce Sales Dashboard]
+        - [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
           
