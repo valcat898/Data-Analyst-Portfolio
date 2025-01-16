@@ -24,7 +24,7 @@ My CV in [PDF].
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
 * [Education]
-* [Certificates]
+* [Certificates](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 * [Contact]
           
 ## Portfolio Projects 
