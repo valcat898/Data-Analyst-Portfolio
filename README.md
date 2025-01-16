@@ -23,7 +23,7 @@ My CV in [PDF].
         - [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
-* [Education]
+* [Education](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#education)
 * [Certificates](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#certificates)
 * [Contact](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#contact)
           
