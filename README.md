@@ -90,6 +90,8 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Results:** The analysis revealed that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
 
+## Education 
+Bachelor of Science, Data Analytics | Western Governors University | 1/2023-1/2025
 ## Certificates 
 * CompTIA Data+
 * CompTIA Project+
