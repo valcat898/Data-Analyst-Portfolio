@@ -25,7 +25,7 @@ My CV in [PDF].
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
 * [Education]
 * [Certificates](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#certificates)
-* [Contact]
+* [Contact](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#contact)
           
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
