@@ -29,7 +29,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Objective:** To analyze user conversion data to determine whether to implement a new webpage or keep the current webpage.
 
-**Description:** This project involves analyzing the results of an A/B test conducted by an e-commerce company to evaluate the effectiveness of a newly developed webpage aimed at increasing user conversions. The goal is to determine whether the company should implement the new treatment webpage, continue using the current control webpage, or extend the experiment to gather more data. Using the provided dataset and Jupyter Notebook, the analysis will focus on comparing conversion rates and statistical significance to inform the company's decision.
+**Description:** The dataset contains a list of users that are in the control or treatment group and whether they converted to the new webpage. This project includes the following steps: data loading, data cleaning, and statistical data analysis. 
 
 **Skills:** data cleaning, data analysis, A/B testing, statistical analysis, data visualization
 
@@ -42,7 +42,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Objective:** To analyze energy consumption patterns in buildings to optimize energy efficiency. 
 
-**Description:** This project aims to analyze energy consumption patterns in buildings by examining factors such as building type, square footage, number of occupants, appliances used, day of the week, and temperature. By identifying trends and correlations within the data, the project seeks to uncover insights that can help optimize energy usage and improve overall energy efficiency in homes. The analysis will assist in understanding the key drivers of energy consumption, enabling more informed decisions for sustainable energy management.
+**Description:** The dataset contains a list of building types and factors that may affect energy consumption. This project includes the following steps: data loading, data cleaning, and data exploration.
 
 **Skills:** SQL, data cleaning, data analysis, aggregate functions
 
@@ -50,14 +50,25 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
+### Quarterly Sales Dashboard 
+**Code:** [Quarterly Sales Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes)
+
+**Objective:** To visualize retail sales data for a quarterly report, highlighting trends in customer demographics, product performance, and sales.
+
+**Description:** The dataset contains a list of customers and type, price, and quantity of the products they purchased. This project includes the following steps: data import and cleaning, data transformation, and data visualization. 
+
+**Skills:** data import and transformatin, data cleaning, data exploration, visualization design, trend analysis
+
+**Technology:** Tableau
+
 ### E-Commerce Sales Dashboard 
 **Code:** [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/E-Commerce%20Sales%20Dashboard.png)
 
 **Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
 
-**Description:** This project analyzes an e-commerce dataset to uncover insights on product performance, customer preferences, and market trends. By examining sales, pricing, reviews, and discounts, businesses can optimize strategies to boost sales and improve customer satisfaction.
+**Description:** The dataset contains a list of products along with the category, price, rating, sales, and discounts of each purchased product. The project included the following steps: data import and cleaning, data transformation, and data visualization. 
 
-**Skills:** data import and transformation, data modeling, visualization, trend analysis, reporting and dashboarding
+**Skills:** data import and transformation, data modeling, visualization design, trend analysis, reporting and dashboarding
 
 **Technology:** Power BI and Power Query 
 
@@ -66,7 +77,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
 
-**Description:** This dashboard focuses on analyzing consumer shopping behavior through transactional data, including product categories and customer demographics. By examining patterns such as spending trends, popular products, and customer preference, the project aims to provide insights that can guide retail strategies and optimize sales forecasting. The goal is to help businesses make data-driven decisions for improved marketing, customer retention, and overall performance. 
+**Description:** The dataset contains a list of customer demographics and product specifications such as category, cost, reviews, etc. The project included the following steps: data cleaning, data transformation, and data visualization. 
 
 **Skills:** data cleaning, data analysis, data visualization, customer segmentation
 
