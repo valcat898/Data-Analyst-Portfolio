@@ -18,7 +18,7 @@ My CV in [PDF].
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
-        - [Quarterly Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#quarterly-sales-dashboard)
+        - [Quarterly Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#quarterly-sales-insights-dashboard)
     - Power BI
         - [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
     - Microsoft Excel
