@@ -14,7 +14,7 @@ My CV in [PDF].
 * [About](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
-        - [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
+        - [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#optimizing-e-commerce-performance-through-ab-testing)
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
