@@ -56,7 +56,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
 ### Quarterly Sales Insights Dashboard 
-**Code:** [Quarterly Sales Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes) (redirects to Tableau)
+**Code:** [Quarterly Sales Insights Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes) (redirects to Tableau)
 
 
 **Objective:** To visualize retail sales data for a quarterly report, highlighting trends in customer demographics, product performance, and sales.
@@ -68,7 +68,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Tableau
 
 ### E-Commerce Sales Analytics Dashboard 
-**Code:** [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) 
+**Code:** [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) 
 **Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
 
 **Description:** The dataset contains a list of products along with the category, price, rating, sales, and discounts of each purchased product. The project included the following steps: data import and cleaning, data transformation, and data visualization. 
