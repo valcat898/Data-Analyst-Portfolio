@@ -78,7 +78,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Power BI and Power Query 
 
 ### Consumer Behavior and Sales Insights Dashboard 
-**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/tree/main/Consumer%20Behavior%20and%20Sales%20Insights)
+**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Consumer%20Behavior%20and%20Sales%20Insights/Dashboard%20Visualization.png)
 
 **Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
 
