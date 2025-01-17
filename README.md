@@ -18,9 +18,9 @@ My CV in [PDF].
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
-        - [Quarterly Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#quarterly-sales-dashboard)
+        - [Quarterly Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#quarterly-sales-dashboard)
     - Power BI
-        - [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
+        - [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#e-commerce-sales-dashboard)
     - Microsoft Excel
         - [Consumer Behavior and Sales Insight Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#consumer-behavior-and-sales-insights-dashboard)
 * [Education](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#education)
@@ -30,7 +30,7 @@ My CV in [PDF].
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### Optimizing E-Commerce Performance Through A/B Testing
-**Code:** [A/B Data Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+**Code:** [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
 
 **Objective:** To analyze user conversion data to determine whether to implement a new webpage or keep the current webpage.
 
@@ -55,7 +55,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
-### Quarterly Sales Dashboard 
+### Quarterly Sales Insights Dashboard 
 **Code:** [Quarterly Sales Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes)
 
 **Objective:** To visualize retail sales data for a quarterly report, highlighting trends in customer demographics, product performance, and sales.
@@ -66,7 +66,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Technology:** Tableau
 
-### E-Commerce Sales Dashboard 
+### E-Commerce Sales Analytics Dashboard 
 **Code:** [E-Commerce Sales Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) (redirects to Tableau)
 
 **Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
