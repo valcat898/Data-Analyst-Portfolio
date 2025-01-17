@@ -43,7 +43,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Results:** The analysis revealed that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
 
 ### Exploring Factors Affecting Energy Consumption 
-**Code:** [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Exploring%20Factors%20Affecting%20Energy%20Consumption.sql)
+**Code:** [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/SQL%20-%20Energy%20Consumption%20Analysis/Exploring%20Factors%20Affecting%20Energy%20Consumption.sql)
 
 **Objective:** To analyze energy consumption patterns in buildings to optimize energy efficiency. 
 
