@@ -14,7 +14,7 @@ My CV in [PDF].
 * [About](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#about)
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
-        - [A/B Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
+        - [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#ab-data-analysis-of-an-e-commerce-website)
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
@@ -29,7 +29,7 @@ My CV in [PDF].
           
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
-### A/B Data Analysis of an E-Commerce Website
+### Optimizing E-Commerce Performance Through A/B Testing
 **Code:** [A/B Data Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
 
 **Objective:** To analyze user conversion data to determine whether to implement a new webpage or keep the current webpage.
