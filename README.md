@@ -30,7 +30,7 @@ My CV in [PDF].
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
 ### A/B Data Analysis of an E-Commerce Website
-**Code:** [A/B Data Analysis of an E-Commerce Website](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
+**Code:** [A/B Data Analysis of an E-Commerce Website]([https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb))
 
 **Objective:** To analyze user conversion data to determine whether to implement a new webpage or keep the current webpage.
 
