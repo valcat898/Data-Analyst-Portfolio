@@ -69,6 +69,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 ### E-Commerce Sales Analytics Dashboard 
 **Code:** [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) 
+
 **Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
 
 **Description:** The dataset contains a list of products along with the category, price, rating, sales, and discounts of each purchased product. The project included the following steps: data import and cleaning, data transformation, and data visualization. 
