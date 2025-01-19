@@ -45,7 +45,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Results:** The analysis revealed that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
 
 ### Exploring the Factors Influencing No-Show Appointments: An EDA Approach
-**Code:** [Exploring the Factors Influencing No-Show Appointments: An EDA Approach]
+**Code:** [Exploring the Factors Influencing No-Show Appointments: An EDA Approach](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Python%20-%20EDA%20of%20No-Show%20Appointments/Exploring%20the%20Factors%20Influencing%20No-Show%20Appointments%20-%20An%20EDA%20Approach.ipynb)
 
 **Objective:** To identify the key factors that contribute to no-show appointments in healthcare settings through exploratory data analysis (EDA).
 
