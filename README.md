@@ -15,6 +15,7 @@ My CV in [PDF].
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
         - [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#optimizing-e-commerce-performance-through-ab-testing)
+        - [Exploring the Factors Influencing No-Show Appointments: An EDA Approach]
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
@@ -29,6 +30,7 @@ My CV in [PDF].
           
 ## Portfolio Projects 
 In this section, I will outline data analytics projects, offering a brief description of the tools and technologies used to address each case.
+
 ### Optimizing E-Commerce Performance Through A/B Testing
 **Code:** [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/AB%20Test%20Analysis/AB%20Test%20Analysis%20of%20an%20E-Commerce%20Website.ipynb)
 
@@ -38,9 +40,22 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Skills:** data cleaning, data analysis, A/B testing, statistical analysis, data visualization
 
-**Technology:** Python, Pandas, Matplotlib, Statsmodels
+**Technology:** Python, Pandas, Matplotlib, Statsmodels, NumPy
 
 **Results:** The analysis revealed that the new webpage did not significantly increase user conversion rates compared to the current webpage, as the p-value from the logistic regression was above the 0.05 threshold, indicating no statistical evidence of improvement.
+
+### Exploring the Factors Influencing No-Show Appointments: An EDA Approach
+**Code:** [Exploring the Factors Influencing No-Show Appointments: An EDA Approach]
+
+**Objective:** To identify the key factors that contribute to no-show appointments in healthcare settings through exploratory data analysis (EDA).
+
+**Description:** The dataset contains a list of patients and factors - alcoholism, gender, and SMS text reminders - that may have contributed to no-show appointments. 
+
+**Skills:** data cleaning, exploratory data analysis, data visualization
+
+**Technology:** Python, Pandas, Matplotlib, NumPy
+
+**Results:** The analysis revealed that gender, alcoholism, and SMS text reminders did not have a significant impact on appointment no-shows. Despite being considered as potential factors, the data showed no discernible pattern or correlation between these variables and the likelihood of a patient missing their appointment.
 
 ### Exploring Factors Affecting Energy Consumption 
 **Code:** [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/SQL%20-%20Energy%20Consumption%20Analysis/Exploring%20Factors%20Affecting%20Energy%20Consumption.sql)
@@ -56,7 +71,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Results:** The analysis of energy consumption patterns in buildings revealed significant correlations between factors and energy usage.
 
 ### Quarterly Sales Insights Dashboard 
-**Code:** [Quarterly Sales Insights Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes) (redirects to Tableau)
+**Visual:** [Quarterly Sales Insights Dashboard](https://public.tableau.com/app/profile/catherine.valadez7567/viz/SalesDashboardFinal_17367378897850/Dashboard2?publish=yes) (redirects to Tableau)
 
 
 **Objective:** To visualize retail sales data for a quarterly report, highlighting trends in customer demographics, product performance, and sales.
@@ -68,7 +83,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Tableau
 
 ### E-Commerce Sales Analytics Dashboard 
-**Code:** [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) 
+**Visual:** [E-Commerce Sales Analytics Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Power%20BI%20-%20E-Commerce%20Sales/E-Commerce%20Sales%20Dashboard.png) 
 
 **Objective:** To provide a comprehensive, interactive tool that allows stakeholders to monitor, analyze, and make data-driven decisions regarding sales performance. 
 
@@ -79,7 +94,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 **Technology:** Power BI and Power Query 
 
 ### Consumer Behavior and Sales Insights Dashboard 
-**Code:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Consumer%20Behavior%20and%20Sales%20Insights/Dashboard%20Visualization.png)
+**Visual:** [Consumer Behavior and Sales Insights Dashboard](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/Consumer%20Behavior%20and%20Sales%20Insights/Dashboard%20Visualization.png)
 
 **Objective:** To analyze consumer shopping trends to drive data-informed retail strategies.
 
