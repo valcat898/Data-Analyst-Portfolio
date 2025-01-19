@@ -8,7 +8,7 @@ In my previous roles, I managed daily operations, including vendor coordination 
 
 Feel free to explore my projects, and if you believe there’s an opportunity to collaborate or that my skills could be of value to your team, I’d love to connect!
 
-My CV in [PDF]. 
+My resume in [PDF](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/CV%20Resume.pdf). 
 
 ## Table of Contents 
 * [About](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#about)
