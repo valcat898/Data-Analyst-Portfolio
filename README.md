@@ -64,7 +64,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Description:** The dataset contains a list of building types and factors that may affect energy consumption. This project includes the following steps: data loading, data cleaning, and data exploration.
 
-**Skills:** SQL, data cleaning, data analysis, aggregate functions
+**Skills:** SQL, data cleaning, data analysis, SQL aggregate functions
 
 **Technology:** SQL and Excel
 
@@ -78,7 +78,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Description:** The dataset contains a list of customers and type, price, and quantity of the products they purchased. This project includes the following steps: data import and cleaning, data transformation, and data visualization. 
 
-**Skills:** data import and transformatin, data cleaning, data exploration, visualization design, trend analysis
+**Skills:** data import and transformation, data cleaning, data exploration, visualization design, trend analysis
 
 **Technology:** Tableau
 
@@ -104,7 +104,7 @@ In this section, I will outline data analytics projects, offering a brief descri
 
 **Technology:** Excel pivot tables, formulas, and filters
 
-**Results:** The analysis revealed that clothing is the top-performing product category, with the highest sales and most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
+**Results:** The analysis revealed that clothing is the top-performing product category, with the highest sales and the most items sold. Seasonal trends show that sales peak during the fall, drop in the spring and summer, and rise again in the winter. Additionally, middle-aged individuals contribute the most to total sales, while males surpass females in overall spending. These insights can help inform targeted marketing strategies, optimize inventory planning, and refine sales forecasting, enabling businesses to better align their offerings with customer preferences and seasonal demand.
 
 ## Education 
 Bachelor of Science, Data Analytics | Western Governors University 
