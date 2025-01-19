@@ -15,7 +15,7 @@ My CV in [PDF].
 * [Portfolio Projects](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#portfolio-projects)
     - Python
         - [Optimizing E-Commerce Performance Through A/B Testing](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#optimizing-e-commerce-performance-through-ab-testing)
-        - [Exploring the Factors Influencing No-Show Appointments: An EDA Approach]
+        - [Exploring the Factors Influencing No-Show Appointments: An EDA Approach](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-the-factors-influencing-no-show-appointments-an-eda-approach)
     - SQL
         - [Exploring Factors Affecting Energy Consumption](https://github.com/valcat898/Data-Analyst-Portfolio/blob/main/README.md#exploring-factors-affecting-energy-consumption)
     - Tableau
